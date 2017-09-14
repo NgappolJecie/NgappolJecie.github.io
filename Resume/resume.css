@@ -1,0 +1,14 @@
+body{
+	font-family: 'Lato', Helvetica, Arial, serif;
+}
+
+p{
+	font: Century;
+	font-size: 18px;
+	text-align: center;
+}
+
+h1{
+	font-size: 15px;
+	line-height: 5px;
+}
